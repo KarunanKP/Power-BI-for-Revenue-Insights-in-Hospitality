@@ -1,4 +1,4 @@
-# -Provide-Insights-to-the-Revenue-Team-in-the-Hospitality-Domain-using-Power-BI
+# Power-BI-for-Revenue-Insights-in-Hospitality
 
 Domain: Hospitality 
 Function: Revenue
